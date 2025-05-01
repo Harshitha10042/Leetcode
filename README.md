@@ -27,10 +27,16 @@ DSA (LEETCODE)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshitha10042/Leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Harshitha10042/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Harshitha10042/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
