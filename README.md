@@ -62,6 +62,7 @@ DSA (LEETCODE)
 | [0051-n-queens](https://github.com/Harshitha10042/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harshitha10042/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harshitha10042/Leetcode/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@ DSA (LEETCODE)
 | [0039-combination-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harshitha10042/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Harshitha10042/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Harshitha10042/Leetcode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -95,4 +97,8 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshitha10042/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
