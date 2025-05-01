@@ -20,6 +20,7 @@ DSA (LEETCODE)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
@@ -27,4 +28,8 @@ DSA (LEETCODE)
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
