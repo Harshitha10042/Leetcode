@@ -15,10 +15,12 @@ DSA (LEETCODE)
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshitha10042/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harshitha10042/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Harshitha10042/Leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshitha10042/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Harshitha10042/Leetcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
