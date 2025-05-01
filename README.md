@@ -43,6 +43,7 @@ DSA (LEETCODE)
 | [0027-remove-element](https://github.com/Harshitha10042/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harshitha10042/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Harshitha10042/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Harshitha10042/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Array
@@ -60,6 +61,7 @@ DSA (LEETCODE)
 | [0046-permutations](https://github.com/Harshitha10042/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Harshitha10042/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Harshitha10042/Leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -69,6 +71,7 @@ DSA (LEETCODE)
 | ------- |
 | [0015-3sum](https://github.com/Harshitha10042/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshitha10042/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Harshitha10042/Leetcode/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
