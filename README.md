@@ -13,6 +13,7 @@ DSA (LEETCODE)
 | [0138-copy-list-with-random-pointer](https://github.com/Harshitha10042/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Harshitha10042/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ DSA (LEETCODE)
 | [0002-add-two-numbers](https://github.com/Harshitha10042/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Harshitha10042/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Harshitha10042/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Harshitha10042/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
