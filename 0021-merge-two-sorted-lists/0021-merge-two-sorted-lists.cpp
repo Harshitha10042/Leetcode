@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* head1, ListNode* head2) {
-        if (head1 == nullptr) return head2;
-        if (head2 == nullptr) return head1;
+        if (head1 == NULL) return head2;
+        if (head2 == NULL) return head1;
 
         // case1
         if (head1->val <= head2->val) {
