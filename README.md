@@ -57,6 +57,7 @@ DSA (LEETCODE)
 | [0039-combination-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harshitha10042/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Harshitha10042/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -81,4 +82,12 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harshitha10042/Leetcode/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
