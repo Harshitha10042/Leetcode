@@ -45,6 +45,7 @@ DSA (LEETCODE)
 | [0018-4sum](https://github.com/Harshitha10042/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Harshitha10042/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harshitha10042/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -54,4 +55,8 @@ DSA (LEETCODE)
 | ------- |
 | [0015-3sum](https://github.com/Harshitha10042/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshitha10042/Leetcode/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
