@@ -23,6 +23,7 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Harshitha10042/Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
@@ -46,6 +47,7 @@ DSA (LEETCODE)
 | [0027-remove-element](https://github.com/Harshitha10042/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harshitha10042/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Harshitha10042/Leetcode/tree/master/0037-sudoku-solver) |
 ## Greedy
 |  |
 | ------- |
@@ -59,4 +61,12 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Harshitha10042/Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Harshitha10042/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
