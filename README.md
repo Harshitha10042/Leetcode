@@ -19,6 +19,7 @@ DSA (LEETCODE)
 | [0002-add-two-numbers](https://github.com/Harshitha10042/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harshitha10042/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Harshitha10042/Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ DSA (LEETCODE)
 | [0136-single-number](https://github.com/Harshitha10042/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
 ## Greedy
 |  |
 | ------- |
@@ -131,4 +133,12 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
