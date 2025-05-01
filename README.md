@@ -53,6 +53,7 @@ DSA (LEETCODE)
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ DSA (LEETCODE)
 | [0137-single-number-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +95,7 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -125,6 +128,7 @@ DSA (LEETCODE)
 | [0090-subsets-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Harshitha10042/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
