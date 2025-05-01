@@ -49,6 +49,7 @@ DSA (LEETCODE)
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Harshitha10042/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Harshitha10042/Leetcode/tree/master/0046-permutations) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ DSA (LEETCODE)
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harshitha10042/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harshitha10042/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Harshitha10042/Leetcode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
