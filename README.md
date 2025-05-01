@@ -92,6 +92,7 @@ DSA (LEETCODE)
 | [0051-n-queens](https://github.com/Harshitha10042/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Harshitha10042/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Harshitha10042/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +106,7 @@ DSA (LEETCODE)
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshitha10042/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Harshitha10042/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +116,5 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harshitha10042/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Harshitha10042/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
