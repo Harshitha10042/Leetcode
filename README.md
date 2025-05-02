@@ -42,6 +42,7 @@ DSA (LEETCODE)
 | [0141-linked-list-cycle](https://github.com/Harshitha10042/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,10 +144,12 @@ DSA (LEETCODE)
 | [0131-palindrome-partitioning](https://github.com/Harshitha10042/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Harshitha10042/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -167,4 +170,8 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitha10042/Leetcode/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
