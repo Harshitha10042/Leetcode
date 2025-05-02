@@ -138,6 +138,7 @@ DSA (LEETCODE)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshitha10042/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harshitha10042/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Harshitha10042/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -162,4 +163,8 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Harshitha10042/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshitha10042/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
