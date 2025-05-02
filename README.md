@@ -45,6 +45,7 @@ DSA (LEETCODE)
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Harshitha10042/Leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ DSA (LEETCODE)
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harshitha10042/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Harshitha10042/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Harshitha10042/Leetcode/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +154,7 @@ DSA (LEETCODE)
 | [0344-reverse-string](https://github.com/Harshitha10042/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Harshitha10042/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Harshitha10042/Leetcode/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -185,4 +188,8 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Harshitha10042/Leetcode/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Harshitha10042/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
