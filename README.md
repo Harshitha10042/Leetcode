@@ -24,6 +24,7 @@ DSA (LEETCODE)
 | [0007-reverse-integer](https://github.com/Harshitha10042/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Harshitha10042/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/Harshitha10042/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@ DSA (LEETCODE)
 | [0025-reverse-nodes-in-k-group](https://github.com/Harshitha10042/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Harshitha10042/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Harshitha10042/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Harshitha10042/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +131,7 @@ DSA (LEETCODE)
 | [0053-maximum-subarray](https://github.com/Harshitha10042/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshitha10042/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Harshitha10042/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1013-fibonacci-number](https://github.com/Harshitha10042/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,4 +179,8 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Harshitha10042/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
