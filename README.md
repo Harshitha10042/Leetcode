@@ -92,6 +92,7 @@ DSA (LEETCODE)
 | [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Harshitha10042/Leetcode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +111,7 @@ DSA (LEETCODE)
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Harshitha10042/Leetcode/tree/master/0792-binary-search) |
 ## Backtracking
 |  |
 | ------- |
