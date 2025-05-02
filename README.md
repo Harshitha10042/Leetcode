@@ -89,6 +89,7 @@ DSA (LEETCODE)
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +107,7 @@ DSA (LEETCODE)
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
