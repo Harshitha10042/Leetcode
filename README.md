@@ -93,6 +93,7 @@ DSA (LEETCODE)
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harshitha10042/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Harshitha10042/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@ DSA (LEETCODE)
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harshitha10042/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Harshitha10042/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
