@@ -94,6 +94,7 @@ DSA (LEETCODE)
 | [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Harshitha10042/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harshitha10042/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshitha10042/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -189,6 +190,7 @@ DSA (LEETCODE)
 | [0020-valid-parentheses](https://github.com/Harshitha10042/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitha10042/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Harshitha10042/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
@@ -206,4 +208,5 @@ DSA (LEETCODE)
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitha10042/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Harshitha10042/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
