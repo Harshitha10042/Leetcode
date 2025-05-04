@@ -45,6 +45,7 @@ DSA (LEETCODE)
 | [0142-linked-list-cycle-ii](https://github.com/Harshitha10042/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitha10042/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Harshitha10042/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Harshitha10042/Leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ DSA (LEETCODE)
 | [0169-majority-element](https://github.com/Harshitha10042/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Harshitha10042/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha10042/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Harshitha10042/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha10042/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harshitha10042/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshitha10042/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -184,6 +186,7 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitha10042/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Harshitha10042/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -196,4 +199,8 @@ DSA (LEETCODE)
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Harshitha10042/Leetcode/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshitha10042/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
