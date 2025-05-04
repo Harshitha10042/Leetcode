@@ -1,17 +1,20 @@
 class Solution {
- public:
-  int firstUniqChar(string s) {
-    vector<int> count(26);
+public:
+    int firstUniqChar(string s) {
+        unordered_map<char, int> m;
+        queue<int> Q;
 
-    for (const char c : s)
-      ++count[c - 'a'];
+        for (int i = 0; i < s.size(); i++) {
+            if (m.find(s[i]) == m.end()) {
+                Q.push(i);
+            }
+            m[s[i]]++;
 
-    for (int i = 0; i < s.length(); ++i)
-      if (count[s[i] - 'a'] == 1)
-        return i;
+            while (!Q.empty() && m[s[Q.front()]] > 1) {
+                Q.pop();
+            }
+        }
 
-    return -1;
-  }
+        return Q.empty() ? -1 : Q.front();
+    }
 };
-
-
